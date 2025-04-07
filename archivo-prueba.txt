@@ -1,0 +1,2 @@
+Este archivo fue creado desde Visual Studio Code.
+Lo vamos a subir a GitHub.
